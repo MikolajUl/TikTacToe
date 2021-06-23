@@ -1,2 +1,2 @@
 # TikTacToe
-python tik tac toe game 
+Python terminal based tic tac toe game 
